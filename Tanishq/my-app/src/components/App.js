@@ -6,7 +6,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <Person />
+        <Person name="Tanishq" about="Coding Enthusiast, Js Developer" />
       </div>
     );
   }
