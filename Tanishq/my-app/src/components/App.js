@@ -23,7 +23,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <button onClick={this.show}>Toggle Cards</button>
-        {this.state.showPerson ? <Person name="Tanishq" age="18" /> : null}
+        {this.state.showPerson && <Person name="Tanishq" age="18" />}
       </div>
     );
   }
