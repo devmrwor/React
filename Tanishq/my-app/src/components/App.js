@@ -22,10 +22,28 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <button onClick={this.show}>Toggle Cards</button>
-        {this.state.showPerson && <Person name="Tanishq" age="18" />}
+        <button onClick={this.show}>Toggle Person</button>
+        {this.state.showPerson && (
+          <div>
+            <Person name="Tanishq" age="18" />
+          </div>
+        )}
       </div>
     );
+
+    // if (this.state.showPerson) {
+    //   person = (
+    //     <div>
+    //       <Person name="Tanishq" age="18" />
+    //     </div>
+    //   );
+    // }
+    // return (
+    //   <div className="App">
+    //     <button onClick={this.show}>Toggle Cards</button>
+    //     {person}
+    //   </div>
+    // );
   }
 }
 
