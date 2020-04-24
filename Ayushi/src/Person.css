@@ -1,0 +1,7 @@
+.Person {
+  border: solid 1px blueviolet;
+  background-color: bisque;
+  padding: 20px;
+  height: 100px;
+  width: 250px;
+}
