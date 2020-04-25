@@ -38,7 +38,7 @@ class App extends Component{
 
     let charList = this.state.inputValue.split('').map((ch,index)=>{
       return (
-        <Char clicked={this.deleteEventHandler} character={ch} key={index} />
+        <Char clicked={() => this.deleteEventHandler(index)} character={ch} key={index} />
       )
     });
 
