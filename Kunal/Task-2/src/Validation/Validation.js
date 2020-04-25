@@ -13,4 +13,4 @@ const Validation = (props) => {
     )
 }
 
-export default Validation
+export default Validation;
