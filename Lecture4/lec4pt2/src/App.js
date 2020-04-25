@@ -46,7 +46,7 @@ class App extends React.Component {
       persons = (
         <div>
           {this.state.persons.map((person) => {
-            return <Person name={person.name} age={person.agse} />
+            return <Person name={person.name} age={person.age} />
           })}
         </div>
       );
