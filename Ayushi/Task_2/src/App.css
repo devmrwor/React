@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: rgb(199, 233, 222);
+}
+
+h1 {
+  color: rgb(95, 54, 190);
+}
+
+#textfield {
+  font-size: large;
+  color: rgb(95, 54, 190);
+}
