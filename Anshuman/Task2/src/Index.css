@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  background-color: aqua;
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+h1{
+  color: darkred;
+}
+h2{
+  font-family: cursive;
+  color:indigo
+ 
+}
+h3{
+  font-family: cursive;
+  color:tomato;
+}
+p{
+  color: rgb(18, 2, 63);
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  
+
+}
