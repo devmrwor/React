@@ -4,7 +4,7 @@ This Repository is made under Hack For Valley oraganised by Developer Students C
 
 # Mentors
 
-# [Saransh Dawra](https://github.com/SaranshDawra)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsb;&nbsp;[Satvik Chachra](https://https://github.com/satvikchachra)
+# [Saransh Dawra](https://github.com/SaranshDawra)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Satvik Chachra](https://https://github.com/satvikchachra)
 
 <img width="40%" alt="portfolio_view" src="https://avatars2.githubusercontent.com/u/50369485?s=400&u=6e29ea77669a6c449224a9462554568b90dbc2c2&v=4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="40%" alt="portfolio_view" src="https://avatars1.githubusercontent.com/u/50296407?s=400&u=aafd34072987c77ac9738f758be1e9077a150aed&">
