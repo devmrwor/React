@@ -1,6 +1,6 @@
 # React
 
-This Repository is made under Hack For Valley oraganised by Developer Students Club(DSC-CIET).This event was organised virtually on Google Meet under the able mentorship of DSC-CIET Web Lead Mr. Saransh Dawra and Core Team Member Mr. Satvik Chachra. This was a one week virtual workshop in which React was taught from scratch .At the end of workshop each student made a mini project. The corresponding screenshots of mini projects are added successfully in this repository. This was indeed a great learning experience.
+This Repository is made under Hack For Valley oraganised by Developer Students Club(DSC-CIET).This event was organised virtually on Google Meet under the able mentorship of DSC-CIET Web Lead Mr. Saransh Dawra and Core Team Member Mr. Satvik Chachra. This was a one week virtual workshop in which React was taught from scratch. At the end of workshop each student made a mini project a To-Do Application. The corresponding screenshots of mini projects are added successfully in this repository. This was indeed a great learning experience.
 
 # Mentors
 
